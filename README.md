@@ -1,6 +1,11 @@
 # Market Basket Analysis using Apriori Algorithm & PySpark
 
-Market Basket Analysis is a **data mining** technique that helps to understand the relationship between the items sold by the company. As the name suggests, the method tries to analyse the customer basket or the transaction data to identify any association between items. The results from this analysis help the companies to develop marketing strategies to increase their revenue by gaining insight into which items are frequently purchased together by customers.
+[![Visits Badge](https://badges.pufler.dev/visits/Mathews-Tom/Market_Basket_Analysis_Apriori_PySpark)](#)
+[![Languages](https://img.shields.io/github/languages/count/Mathews-Tom/Market_Basket_Analysis_Apriori_PySpark)](#)
+[![Top Languages](https://img.shields.io/github/languages/top/Mathews-Tom/Market_Basket_Analysis_Apriori_PySpark?style=flat-square
+)](#)
+
+Market Basket Analysis is a **data mining** technique that helps to understand the relationship between the items sold by the company. As the name suggests, the method tries to analyse the customer basket or the transaction data to identify any association between items. The results from this analysis help the companies to develop marketing strategies to increase their revenue by gaining insight into which items are frequently purchased together by customers. This project aims at doing Market Basket Analysis using Apriori Algorithm & PySpark.
 
 Let's look at some examples of strategies as follows:
 
@@ -40,4 +45,3 @@ You are provided with the following elements to execute all the tasks as a part 
 - Jupyter notebook
   - This file has an incomplete implementation of the Apriori Algorithm using PySpark over the provided data set. Based on your current understanding of Spark, it will be difficult for you to write the code from scratch. Therefore, you are expected to understand the complete flow of code and fill the gaps in the provided notebook to obtain the association rules.
   - The association rules and the confidence scores obtained in the results should be leveraged to execute the required strategies. However, you must use business logic wherever required to decide whether the strategy will be applicable or not.
-
